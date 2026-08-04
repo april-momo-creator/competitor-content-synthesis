@@ -1,0 +1,26 @@
+# Local secrets and credentials
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Python state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Editor, OS, and agent-local state
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.codex/
+.agents/
+
+# Generated and temporary content
+*.log
+output/
+tmp/

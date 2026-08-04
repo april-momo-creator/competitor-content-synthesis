@@ -1,0 +1,4 @@
+interface:
+  display_name: "Competitor Content Synthesis"
+  short_description: "Turn content pools into evidence-backed growth insights"
+  default_prompt: "Use $competitor-content-synthesis to analyze this candidate pool and produce patterns, opportunity gaps, and a curated reference pool."
